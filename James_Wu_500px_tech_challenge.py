@@ -7,6 +7,9 @@
 
 #Final output image of original, noise, and adversarial images are stored as "final_image" variable
 
+#Ideas from:
+#http://karpathy.github.io/2015/03/30/breaking-convnets/
+
 #Using code from:
 #https://www.tensorflow.org/versions/r0.11/tutorials/mnist/pros/#deep-mnist-for-experts
 #https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist.py
